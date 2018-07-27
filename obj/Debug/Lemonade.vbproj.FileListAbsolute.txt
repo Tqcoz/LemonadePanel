@@ -1,0 +1,13 @@
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\bin\Debug\Lemonade.exe.config
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\bin\Debug\Lemonade.exe
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\bin\Debug\Lemonade.pdb
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\bin\Debug\Lemonade.xml
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.Form1.resources
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.Resources.resources
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.vbproj.GenerateResource.Cache
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.vbproj.CoreCompileInputs.cache
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.exe
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.xml
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.pdb
+c:\users\eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.SplashScreen1.resources
+C:\Users\Eclectictree209\source\repos\Lemonade\Lemonade\obj\Debug\Lemonade.vbprojAssemblyReference.cache
